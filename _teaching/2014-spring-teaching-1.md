@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Golden Hour"
 collection: teaching
-type: "Undergraduate course"
+type: "photography"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Edinburgh"
+date: 2023
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+仲夏夜，街道上酒吧人人哼着小曲
+庆祝这夏夜的黄金时刻
 
-Heading 1
+CityTime
 ======
 
-Heading 2
-======
-
-Heading 3
-======
