@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+这是我的[公众号](https://mp.weixin.qq.com/s?__biz=MzU1MDQ5NTEyNA==&mid=2247484496&idx=1&sn=7aeb9f696f780ad5d42e1d092c123f94&chksm=fa189e147fb4ef8107cb174ef7d0dfe80da1715247f0964f4d84a2ea92328f4310e418f04ab9&mpshare=1&scene=1&srcid=1017fg1pINKUs2Nn6sQJFMXq&sharer_shareinfo=f270fbf6295ed61c2377b8adba3946c0&sharer_shareinfo_first=f270fbf6295ed61c2377b8adba3946c0#rd)
+
+这是我和朋友一起尝试的[播客节目](https://www.xiaoyuzhoufm.com/episode/669d154f8fcadceb90dfaeda?s=eyJ1IjoiNjYyOTI1MjVlZGNlNjcxMDRhMjYyNzI1IiwiZCI6Mn0%3D)
 
 A data-driven personal website
 ======
