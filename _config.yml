@@ -26,7 +26,7 @@ author:
   pronouns         :  "she/her"  
   bio              : "Undefined"
   location         : "Shenzhen"
-  employer         : "Red Brick University"
+  # employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
