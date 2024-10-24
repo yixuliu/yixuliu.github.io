@@ -1,7 +1,7 @@
 ---
 title: "Golden Hour"
 type: "photography"
-permalink: /teaching/Golden_Hour
+permalink: Golden_Hour
 venue: "Edinburgh"
 date: 2023-07-23
 location: "City, Country"
