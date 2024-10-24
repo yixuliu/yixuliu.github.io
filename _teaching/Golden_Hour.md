@@ -3,7 +3,7 @@ title: "Golden Hour"
 type: "photography"
 permalink: /teaching/Golden_Hour
 venue: "Edinburgh"
-date: 2023
+date: 2023-07-23
 location: "City, Country"
 ---
 
