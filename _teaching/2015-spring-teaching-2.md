@@ -4,7 +4,7 @@ collection: teaching
 type: "Photography"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Ulanqab"
-date: 2024
+date: 2024-02-04
 location: "City, Country"
 ---
 
